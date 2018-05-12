@@ -15,6 +15,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/2993
     wikipedia: http://en.wikipedia.org/wiki/Daniel_Garrison_Brinton
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/30061#The-Religious-SentimentPhilosophy-of-Religion
 gutenberg_issued: '2009-09-22'
 gutenberg_type: Text
 identifiers:
